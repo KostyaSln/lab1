@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb4e2346-c1d5-48c0-b0d5-df42fccb12fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/djihhsdifhsdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/gurinovich/java/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/gurinovich/java/Cheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/gurinovich/java/Consumable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/gurinovich/java/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/gurinovich/java/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/gurinovich/java/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/gurinovich/java/Milk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab1/gurinovich/java/Nutritious.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gurinovich/java/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gurinovich/java/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gurinovich/java/Consumable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gurinovich/java/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gurinovich/java/Nutritious.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gurinovich/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gurinovich/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gurinovich/java/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gurinovich/java/Milk.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RpAnDS5AwuiS6s2dPhmmfqV5YV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="gurinovich.java.Main" />
+      <module name="lab1" />
+      <option name="PROGRAM_PARAMETERS" value="-calories Cheese Apple/big asda Milk/1.5/900 Apple/small -sort Milk/2.5/2500 med" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb4e2346-c1d5-48c0-b0d5-df42fccb12fb" name="Default Changelist" comment="" />
+      <created>1570353829304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570353829304</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gurinovich/java/Food.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
